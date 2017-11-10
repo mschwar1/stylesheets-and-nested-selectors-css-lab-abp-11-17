@@ -13,8 +13,7 @@ header nav {
   float: right;
 }
 nav ul {
-  padding: 0px 0px 0px 0px;
-  margin-top: 40px;
+  margin: 40px 0px 0px 0px;
 }
 nav ul li {
   display: inline;
